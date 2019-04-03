@@ -1,0 +1,132 @@
+[
+  {
+    "mode": "NULLABLE", 
+    "name": "apikey", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "event_id", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ip_city", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ip_lat", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ip_lon", 
+    "type": "FLOAT"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "metadata_page_type", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "metadata_section", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "REPEATED", 
+    "name": "metadata_tags", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "metadata_title", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ref_category", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ref_domain", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "session_id", 
+    "type": "INTEGER"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "session_initial_referrer", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ts_action", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ua_device", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "ua_devicetype", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "url_clean", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "visitor_site_id", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "visitor_network_id", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "Loyalty_Segment", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "Title_Type", 
+    "type": "STRING"
+  }, 
+  {
+    "mode": "NULLABLE", 
+    "name": "number_of_sessions", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "Title_Segment", 
+    "type": "STRING"
+  }, 
+  {
+    "name": "metadata_full_content_word_count", 
+    "type": "INTEGER"
+  }, 
+  {
+    "name": "metadata_pub_date_tmsp", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "name": "metadata_save_date_tmsp", 
+    "type": "TIMESTAMP"
+  }, 
+  {
+    "name": "metadata_post_id", 
+    "type": "STRING"
+  }
+]
